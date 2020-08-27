@@ -1,5 +1,6 @@
 使用方式:
 
+```xml
 <dependency>
     <groupId>YOUR.PROJECT.GROUPID</groupId>
     <artifactId>ARTIFACT-ID</artifactId>
@@ -10,4 +11,4 @@
     <id>ARTIFACT-ID</id>
     <url>https://raw.github.com/chaimch/mvn-repo/mvn-repo/</url>
 </repository>
-
+```
