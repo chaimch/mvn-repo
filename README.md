@@ -12,3 +12,8 @@
     <url>https://raw.github.com/chaimch/mvn-repo/mvn-repo/</url>
 </repository>
 ```
+
+部署方式:
+```
+mvn deploy
+```
