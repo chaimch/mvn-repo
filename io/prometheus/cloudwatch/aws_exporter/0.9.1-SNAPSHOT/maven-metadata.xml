@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.prometheus.cloudwatch</groupId>
+  <artifactId>aws_exporter</artifactId>
+  <version>0.9.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200907.123518</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200907123518</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.1-20200907.123518-1</value>
+        <updated>20200907123518</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.1-20200907.123518-1</value>
+        <updated>20200907123518</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
